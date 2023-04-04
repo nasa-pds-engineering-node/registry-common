@@ -10,7 +10,6 @@ public class Tuple
     public String item1;
     public String item2;
 
-    
     /**
      * Constructor
      * @param item1 value 1
