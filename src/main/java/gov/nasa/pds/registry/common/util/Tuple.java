@@ -10,6 +10,8 @@ public class Tuple
     public String item1;
     public String item2;
 
+    /* Technically, this is a double, not a tuple */
+
     /**
      * Constructor
      * @param item1 value 1
