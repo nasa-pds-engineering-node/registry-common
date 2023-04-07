@@ -25,4 +25,5 @@ public class TestNsUtils
         XmlNamespaces xmlns = NsUtils.getNamespaces(doc);
         xmlns.debug();
     }
+
 }
